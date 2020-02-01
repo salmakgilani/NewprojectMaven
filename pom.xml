@@ -43,7 +43,7 @@
 	</profiles>
 	<build>
 		<plugins>
-		<!--	<!-- Another way to add Compiler Plugin -->
+		<!-- Another way to add Compiler Plugin -->
 			<!--<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
